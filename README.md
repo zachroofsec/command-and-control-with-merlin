@@ -1,3 +1,6 @@
+# What is this?
++ Resources for my Pluralsight course, [Command And Control With Merlin](https://app.pluralsight.com/library/courses/command-control-merlin)
+
 # Course Notes
 1. https://merlin-c2.readthedocs.io/en/latest/
 2. https://github.com/Ne0nd0g/merlin
