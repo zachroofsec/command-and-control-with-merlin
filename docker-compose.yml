@@ -79,4 +79,3 @@ services:
     container_name: merlin-server
     ports:
       - "443:443"
-
