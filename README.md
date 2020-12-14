@@ -1,5 +1,9 @@
 # What is this?
-+ Resources for my Pluralsight course, [Command And Control With Merlin](https://app.pluralsight.com/library/courses/command-control-merlin)
++ Supplementary repo for Pluralsight Course: [Command And Control With Merlin](https://www.pluralsight.com/courses/command-control-merlin)
+
+# Special Thanks
++ [Merlin](https://github.com/Ne0nd0g/merlin)
++ [Wazuh](https://github.com/wazuh/wazuh)
 
 # Course Notes
 1. https://merlin-c2.readthedocs.io/en/latest/
