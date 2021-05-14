@@ -63,6 +63,8 @@ services:
     image: zachroofsec/c2-with-merlin-victim
     container_name: victim
     privileged: true
+    environment:
+      - http_proxy=$PROXY_URL_BASIC_AUTH
     cap_add:
       - NET_ADMIN
       - SYS_NICE
